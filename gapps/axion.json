@@ -1,0 +1,15 @@
+{
+  "rom": "AxionAOSP 2.2",
+  "android_version": "16",
+  "device": "Redmi Note 13 Pro 4G / Poco M6 Pro",
+  "codename": "emerald",
+  "build_type": "UNOFFICIAL",
+  "date": "2025-11-08",
+  "maintainer_name": "vannxavero",
+  "telegram": "@panzzxz",
+  "telegram_id": 6227152745,
+  "download_url": "https://github.com/vannxavero/xavero-dumpster/releases/download/v2.2/axion-2.2-NIGHTLY-20251108-UNOFFICIAL-GMS-emerald.zip",
+  "screenshot_url": "https://t.me/EmeraldDiscuss/1/186766?single",
+  "stock_recovery": "https://github.com/vannxavero/xavero-dumpster/releases/download/v2.2/vendorbootaxionemerald.img",
+  "flashing_guide": "https://telegra.ph/Redmi-Note-14-4G-tanzanite---Flashing-guide-05-28"
+  }
